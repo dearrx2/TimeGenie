@@ -43,8 +43,11 @@ To get a local copy up and running, follow these simple steps:
 **1. Sign Up/Sign In** : Register a new account or sign in with an existing account using email and password or Google authentication.
 
 **2. Check In**: Start your day by checking in online.
+
 **3. Manage Tasks**: Use the To-Do List to add, delete, and prioritize your tasks.
+
 **4. Request Leave**: Submit leave requests and keep track of their approval status.
+
 **5. View Calendar**: Check the calendar for your team’s schedule and plan accordingly.
 
 ## Feedback
