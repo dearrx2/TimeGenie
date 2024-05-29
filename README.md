@@ -54,6 +54,8 @@ To get a local copy up and running, follow these simple steps:
 We value your feedback! Feel free to open an issue if you encounter any bugs or have suggestions for improvements.
 
 ## Folder PATH 
+
+```
 C:.
 |   .gitignore
 |   .metadata
@@ -629,7 +631,7 @@ C:.
         |   win32_window.h
         |   
         \---resources
-                app_icon.ico
-                
+                app_icon.icon
+```                
 
 
