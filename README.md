@@ -38,6 +38,8 @@ To get a local copy up and running, follow these simple steps:
    ```bash
    flutter run
 
+****make sure that you have flutter sdk****
+
 ## Getting Started
 
 **1. Sign Up/Sign In** : Register a new account or sign in with an existing account using email and password or Google authentication.
