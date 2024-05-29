@@ -25,3 +25,23 @@ To get a local copy up and running, follow these simple steps:
 1. Clone the repository:
    ```bash
    git clone git@github.com:dearrx2/TimeGenie.git
+
+2. Navigate to the project directory:
+   ```bash
+   cd time-genie
+
+3. Install the dependencies:
+   ```bash
+   flutter pub get
+
+4. Run the app:
+   ```bash
+   flutter run
+
+## Getting Started
+** 1. Sign Up/Sign In ** : Register a new account or sign in with an existing account using email and password or Google authentication.
+Check In: Start your day by checking in online.
+Manage Tasks: Use the To-Do List to add, delete, and prioritize your tasks.
+Request Leave: Submit leave requests and keep track of their approval status.
+View Calendar: Check the calendar for your team’s schedule and plan accordingly.
+
